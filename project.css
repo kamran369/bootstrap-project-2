@@ -1,0 +1,146 @@
+.section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.section h2.section-head{
+    color: #000;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.section h2.section-head:after{
+    background-color: #1abc9c;
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100px;
+    margin: 20px auto;
+}
+.fection h2.fection-head:after{
+    background-color: #1abc9c;
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100px;
+    margin: 20px auto;
+}
+.dection h2.dection-head:after{
+    background-color: #6bbc1a;
+    content: "";
+    display: block;
+    height: 3px;
+    width: 130px;
+    margin: 20px auto;
+}
+#header{
+    color: white;
+    background-color: #1abc9c;
+}
+#logo{
+    font-size: 2rem;
+    margin-top: 5px;
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 15px 10px;
+}
+#menu li a:hover{
+    background-color: #16a085;
+
+}
+#banner{
+    background-image: url(img/banner.jpg.jpg);
+    background-size: cover;
+    padding: 50px 0px;
+}
+.banner-title{
+    padding-top: 5rem;
+}
+.banner-title h1{
+    background-color: antiquewhite;
+    opacity: 0.8;
+    display: inline-block;
+    padding: 8px;
+    margin: 0;
+}
+.banner-title p.lead{
+    color: white;
+    padding: 10px;
+    background-color: green;
+    opacity: 0.5;
+}
+.service-box{
+    text-align: center;
+}
+/* .comments{
+    background-image: url(img/hd.jpg);
+    background-size: cover;
+} */
+.fection h2.fection-head{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#comments{
+    background-image: url(img/xhd.jpg);
+    background-size: cover;
+    padding: 25px 0px;
+}
+#bill p{
+    color: white;
+    text-align: center;
+}
+#elon p{
+    color: white;
+    text-align: center;
+}
+#img img{
+    display: block;
+}
+#commerce{
+    padding: 25px 0px;
+}
+.dection h2.dection-head{
+    color: #1abc9c;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#one-heading h2{
+    color: #1abc9c;
+}
+#two-heading h2{
+    color: #1abc9c;
+}
+#three-heading h2{
+    color: #1abc9c;
+}
+#four-heading h2{
+    color: #1abc9c;
+}
+#prefooter{
+    background-color: #16a085;
+    padding: 25px 0px;
+}
+#ek{
+    text-align: center;
+}
+#do{
+    text-align: center;
+}
+#panj{
+    text-align: center;
+}
+#footer{
+    background-color: bisque;
+    text-align: center;
+    padding-top: 10px;
+}
